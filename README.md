@@ -1,6 +1,8 @@
-# fariji_flutter_mobile_app
+# cloudpesa_demo_banking_app
 
-Mobile Banking app for Fariji Sacco Society
+Demo Mobile Banking app for CloudPESA EA
+
+Copyright 2022, Ian Luke Odanga, All rights reserved
 
 ## Getting Started
 
